@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 I code mainly in Java and Python.<br>🌱 Currently learning more about Full Stack Development<br>🚀 Interested in AI and Computer Vision</p>
+<p align="left">💻 I code mainly in Java and Python<br>🌱 Currently learning more about Full Stack Development<br>🚀 Interested in AI and Computer Vision</p>
 
 ###
 
