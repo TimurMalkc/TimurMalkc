@@ -1,8 +1,8 @@
-<h1 align="left">Hey There 👋</h1>
+<h1 align="left">Heyyy 👋👋</h1>
 
 ###
 
-<p align="left">My name is Timur and I'm currently a senior computer science student at Ankara University</p>
+<p align="left">I'm Timur, a senior Computer Science student at Ankara University</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨I mostly code in Java and Python. I love learning about different fields of computer science. I wanna specialize in Full Stack development when i graduate</p>
+<p align="left">💻 I code mainly in Java and Python.<br>🌱 Currently learning more about Full Stack Development<br>🚀 Interested in AI and Computer Vision</p>
 
 ###
 
