@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨I mostly code in Java and Python. I love learning about new fields of tech. I wanna specialize in Full Stack development when i gradiaute</p>
+<p align="left">✨I mostly code in Java and Python. I love learning about new fields of computer science. I wanna specialize in Full Stack development when i gradiaute</p>
 
 ###
 
