@@ -59,10 +59,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/timur-malko%C3%A7-099145251/" target="_blank">
+  <a href="https://www.linkedin.com/in/timur-malko%C3%A7-099145251/" target="_blank" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/timurmlkc" target="_blank">
+  <a href="https://www.hackerrank.com/profile/timurmlkc" target="_blank" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 </div>
